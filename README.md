@@ -1,6 +1,4 @@
 #  MemoryGame
-- Soundcloud iOS Coding Challenge
-- Author: Arevik Tunyan
 
 ## Summary
 A simple 4x4 grid memory game. Initially cards shown “face down“. After tapping on card it flips and image will be shown. If two flipped cards images match, images remain open, otherwise cards flip back. Game continues until all matches will be found.
